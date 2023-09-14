@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import './App.css'; // Importa tus estilos CSS si los tienes
+import Navbar from './components.navbar' // Importa el componente Navbar
 
 function App() {
   return (
